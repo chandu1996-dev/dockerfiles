@@ -2,4 +2,4 @@ FROM almalinux:9
 ENV COURSE="DOCKER"\
     trainer="siva"\
     duration="10hrs"
-CMD ["sleep", "10"]
+CMD ["sleep", "15"]
